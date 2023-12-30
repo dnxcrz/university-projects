@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <title>Document</title>
+</head>
+<body>
+  <form action="" method="GET" name="Formulario" target="_self">
+    <label for="nombre">Nombre:</label>
+    <input type="text" id="nombre" name="nombre" required><br>
+  
+    <label for="apellidos">Apellidos:</label>
+    <input type="text" id="apellidos" name="apellidos" required><br>
+  
+    <label for="fecha_nacimiento">Fecha de Nacimiento:</label>
+    <input type="date" id="fecha_nacimiento" name="fecha_nacimiento" required><br>
+  
+    <label for="estudios">¿Qué desea estudiar?</label><br>
+    <input type="radio" id="asociado" name="estudios" value="asociado" required>
+    <label for="asociado">Asociado</label><br>
+    <input type="radio" id="bachillerato" name="estudios" value="bachillerato" required>
+    <label for="bachillerato">Bachillerato</label><br>
+    <input type="radio" id="maestria" name="estudios" value="maestria" required>
+    <label for="maestria">Maestría</label><br>
+    <input type="radio" id="doctorado" name="estudios" value="doctorado" required>
+    <label for="doctorado">Doctorado</label><br>
+  
+    <label for="concentracion">Concentración:</label>
+    <select id="concentracion" name="concentracion" required>
+      <option value="computadoras">Ciencias en Computadoras</option>
+      <option value="aeronauticas">Ciencias Aeronáuticas</option>
+      <option value="biologia">Ciencias en Biología</option>
+      <option value="moleculares">Ciencias Moleculares</option>
+      <option value="botanicas">Ciencia Botánicas</option>
+      <option value="quimicas">Ciencias Químicas</option>
+    </select><br>
+  
+    <label for="detalle">Detalles adicionales:</label>
+    <textarea id="detalle" name="detalle"></textarea><br>
+  
+    <?php
+      $fecha_actual = date("Y-m-d");
+      echo "<input type='hidden' id='fecha' name='fecha' value='$fecha_actual'
+    ?>
+  
+    <input type="submit" value="Guardar">
+  </form>
+  
+</body>
+</html>
