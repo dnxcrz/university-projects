@@ -1,0 +1,9 @@
+<resources>
+    <!-- App theme -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your app theme here -->
+        <!-- For example, you can set the primary color -->
+        <item name="colorPrimary">#FF0000</item>
+        <!-- Other theme attributes -->
+    </style>
+</resources>

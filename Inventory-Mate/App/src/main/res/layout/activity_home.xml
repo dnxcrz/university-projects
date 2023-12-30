@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    tools:context=".HomeActivity">
+
+    <View
+        android:id="@+id/top_bar"
+        android:layout_width="0dp"
+        android:layout_height="4dp"
+        android:background="#ff5722"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/page_name" />
+
+    <TextView
+        android:id="@+id/page_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Dashboard"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:textColor="#000000"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/inventory_button"
+        android:layout_width="160dp"
+        android:layout_height="150dp"
+        android:padding="18dp"
+        android:text="Inventory"
+        app:backgroundTint="#ff5722"
+        app:cornerRadius="0dp"
+        app:icon="@drawable/ic_inventory"
+        app:iconGravity="top"
+        app:iconSize="48dp"
+        app:layout_constraintBottom_toTopOf="@+id/add_inventory_button"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/top_bar"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_chainStyle="spread" />
+
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/add_inventory_button"
+        android:layout_width="160dp"
+        android:layout_height="150dp"
+        android:layout_marginTop="10dp"
+        android:padding="8dp"
+        android:text="Add Inventory"
+        app:backgroundTint="#ff5722"
+        app:cornerRadius="0dp"
+        app:icon="@drawable/ic_plus"
+        app:iconGravity="top"
+        app:iconSize="48dp"
+        app:layout_constraintBottom_toTopOf="@+id/report_button"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/inventory_button" />
+
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/report_button"
+        android:layout_width="160dp"
+        android:layout_height="150dp"
+        android:layout_marginTop="20dp"
+        android:padding="8dp"
+        android:text="Report"
+        app:backgroundTint="#ff5722"
+        app:cornerRadius="0dp"
+        app:icon="@drawable/ic_report"
+        app:iconGravity="top"
+        app:iconSize="48dp"
+        app:layout_constraintBottom_toTopOf="@+id/bottom_navigation"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/add_inventory_button" />
+
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:id="@+id/bottom_navigation"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:background="?android:attr/windowBackground"
+        app:itemIconTint="#ff5722"
+        app:itemTextColor="#FFFFFF"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:menu="@menu/bottom_navigation_menu" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+

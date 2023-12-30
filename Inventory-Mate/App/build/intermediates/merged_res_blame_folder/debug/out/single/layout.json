@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-mergeDebugResources-42:\\layout\\activity_report.xml",
+        "source": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-main-45:\\layout\\activity_report.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-mergeDebugResources-42:\\layout\\activity_task.xml",
+        "source": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-main-45:\\layout\\activity_task.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-mergeDebugResources-42:\\layout\\activity_inventory.xml",
+        "source": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-main-45:\\layout\\activity_inventory.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-mergeDebugResources-42:\\layout\\bottom_navigation_item.xml",
+        "source": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-main-45:\\layout\\bottom_navigation_item.xml"
+    },
+    {
+        "merged": "com.example.inventory_mate.app-mergeDebugResources-42:/layout/report_item.xml",
+        "source": "com.example.inventory_mate.app-main-45:/layout/report_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-mergeDebugResources-42:\\layout\\activity_settings.xml",
+        "source": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-main-45:\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-mergeDebugResources-42:\\layout\\report_item.xml",
+        "source": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-main-45:\\layout\\report_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-mergeDebugResources-42:\\layout\\activity_add_inventory.xml",
+        "source": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-main-45:\\layout\\activity_add_inventory.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-mergeDebugResources-42:\\layout\\inventory_item.xml",
+        "source": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-main-45:\\layout\\inventory_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-mergeDebugResources-42:\\layout\\activity_home.xml",
+        "source": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-main-45:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-mergeDebugResources-42:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-main-45:\\layout\\activity_login.xml"
+    }
+]

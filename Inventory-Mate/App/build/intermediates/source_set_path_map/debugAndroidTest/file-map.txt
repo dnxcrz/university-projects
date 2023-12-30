@@ -1,0 +1,7 @@
+com.example.inventory_mate.test.app-annotation-experimental-1.3.0-0 C:\Users\Nix\.gradle\caches\transforms-3\9d8d7feb3580355ffff343143a4678dc\transformed\annotation-experimental-1.3.0\res
+com.example.inventory_mate.test.app-core-1.5.0-1 C:\Users\Nix\.gradle\caches\transforms-3\cd423349e9fa80d0989033f52c5735f3\transformed\core-1.5.0\res
+com.example.inventory_mate.test.app-androidTest-2 C:\Users\Nix\AndroidStudioProjects\Inventory_Mate\app\build\generated\res\resValues\androidTest\debug
+com.example.inventory_mate.test.app-androidTest-3 C:\Users\Nix\AndroidStudioProjects\Inventory_Mate\app\build\generated\res\rs\androidTest\debug
+com.example.inventory_mate.test.app-mergeDebugAndroidTestResources-4 C:\Users\Nix\AndroidStudioProjects\Inventory_Mate\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.example.inventory_mate.test.app-mergeDebugAndroidTestResources-5 C:\Users\Nix\AndroidStudioProjects\Inventory_Mate\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.example.inventory_mate.test.app-merged_res-6 C:\Users\Nix\AndroidStudioProjects\Inventory_Mate\app\build\intermediates\merged_res\debugAndroidTest

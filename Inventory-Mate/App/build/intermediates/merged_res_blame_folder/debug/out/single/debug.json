@@ -1,0 +1,242 @@
+[
+    {
+        "merged": "com.example.inventory_mate.app-merged_res-43:/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.inventory_mate.app-main-45:/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-merged_res-43:\\layout_bottom_navigation_item.xml.flat",
+        "source": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-main-45:\\layout\\bottom_navigation_item.xml"
+    },
+    {
+        "merged": "com.example.inventory_mate.app-merged_res-43:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.example.inventory_mate.app-main-45:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-merged_res-43:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-main-45:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-merged_res-43:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-main-45:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-merged_res-43:\\drawable_ic_report.png.flat",
+        "source": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-main-45:\\drawable\\ic_report.png"
+    },
+    {
+        "merged": "com.example.inventory_mate.app-merged_res-43:/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.inventory_mate.app-main-45:/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-merged_res-43:\\drawable_ic_inventory.png.flat",
+        "source": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-main-45:\\drawable\\ic_inventory.png"
+    },
+    {
+        "merged": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-merged_res-43:\\drawable_ic_search.png.flat",
+        "source": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-main-45:\\drawable\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-merged_res-43:\\navigation_nav_graph.xml.flat",
+        "source": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-main-45:\\navigation\\nav_graph.xml"
+    },
+    {
+        "merged": "com.example.inventory_mate.app-merged_res-43:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.example.inventory_mate.app-main-45:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-merged_res-43:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-main-45:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "com.example.inventory_mate.app-merged_res-43:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.inventory_mate.app-main-45:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.inventory_mate.app-merged_res-43:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.inventory_mate.app-main-45:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-merged_res-43:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-main-45:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-merged_res-43:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-main-45:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.inventory_mate.app-merged_res-43:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.example.inventory_mate.app-main-45:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-merged_res-43:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-main-45:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-merged_res-43:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-main-45:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-merged_res-43:\\drawable_bottom_navigation_item_color.xml.flat",
+        "source": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-main-45:\\drawable\\bottom_navigation_item_color.xml"
+    },
+    {
+        "merged": "com.example.inventory_mate.app-merged_res-43:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.inventory_mate.app-main-45:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.example.inventory_mate.app-merged_res-43:/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.inventory_mate.app-main-45:/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "com.example.inventory_mate.app-merged_res-43:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.example.inventory_mate.app-main-45:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-merged_res-43:\\layout_activity_add_inventory.xml.flat",
+        "source": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-main-45:\\layout\\activity_add_inventory.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-merged_res-43:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-main-45:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-merged_res-43:\\drawable_ic_task_search.png.flat",
+        "source": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-main-45:\\drawable\\ic_task_search.png"
+    },
+    {
+        "merged": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-merged_res-43:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-main-45:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-merged_res-43:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-main-45:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-merged_res-43:\\drawable_ic_home.png.flat",
+        "source": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-main-45:\\drawable\\ic_home.png"
+    },
+    {
+        "merged": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-merged_res-43:\\menu_menu_main.xml.flat",
+        "source": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-main-45:\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-merged_res-43:\\xml_file_paths.xml.flat",
+        "source": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-main-45:\\xml\\file_paths.xml"
+    },
+    {
+        "merged": "com.example.inventory_mate.app-merged_res-43:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.inventory_mate.app-main-45:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-merged_res-43:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-main-45:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-merged_res-43:\\layout_activity_task.xml.flat",
+        "source": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-main-45:\\layout\\activity_task.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-merged_res-43:\\drawable_rounded_logo_background.xml.flat",
+        "source": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-main-45:\\drawable\\rounded_logo_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-merged_res-43:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-main-45:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-merged_res-43:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-main-45:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-merged_res-43:\\drawable_ic_plus.png.flat",
+        "source": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-main-45:\\drawable\\ic_plus.png"
+    },
+    {
+        "merged": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-merged_res-43:\\drawable_ic_scan.png.flat",
+        "source": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-main-45:\\drawable\\ic_scan.png"
+    },
+    {
+        "merged": "com.example.inventory_mate.app-merged_res-43:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.example.inventory_mate.app-main-45:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-merged_res-43:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-main-45:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-merged_res-43:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-main-45:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-merged_res-43:\\layout_report_item.xml.flat",
+        "source": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-main-45:\\layout\\report_item.xml"
+    },
+    {
+        "merged": "com.example.inventory_mate.app-merged_res-43:/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.inventory_mate.app-main-45:/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-merged_res-43:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-main-45:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.inventory_mate.app-merged_res-43:/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "com.example.inventory_mate.app-main-45:/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-merged_res-43:\\drawable_logo.png.flat",
+        "source": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-main-45:\\drawable\\logo.png"
+    },
+    {
+        "merged": "com.example.inventory_mate.app-merged_res-43:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.inventory_mate.app-main-45:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-merged_res-43:\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-main-45:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-merged_res-43:\\drawable_ic_settings.png.flat",
+        "source": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-main-45:\\drawable\\ic_settings.png"
+    },
+    {
+        "merged": "com.example.inventory_mate.app-merged_res-43:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.example.inventory_mate.app-main-45:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-merged_res-43:\\layout_activity_report.xml.flat",
+        "source": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-main-45:\\layout\\activity_report.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-merged_res-43:\\layout_activity_settings.xml.flat",
+        "source": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-main-45:\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "com.example.inventory_mate.app-merged_res-43:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.example.inventory_mate.app-main-45:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-merged_res-43:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-main-45:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.inventory_mate.app-merged_res-43:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.example.inventory_mate.app-main-45:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-merged_res-43:\\layout_inventory_item.xml.flat",
+        "source": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-main-45:\\layout\\inventory_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-merged_res-43:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-main-45:\\mipmap-anydpi-v33\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-merged_res-43:\\layout_activity_inventory.xml.flat",
+        "source": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-main-45:\\layout\\activity_inventory.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-merged_res-43:\\menu_bottom_navigation_menu.xml.flat",
+        "source": "C:\\Users\\Nix\\.gradle\\daemon\\7.5\\com.example.inventory_mate.app-main-45:\\menu\\bottom_navigation_menu.xml"
+    }
+]
