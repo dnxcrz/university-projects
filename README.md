@@ -5,6 +5,9 @@ This Git repository serves as a comprehensive collection of my academic journey,
 🔍 Key Features:
 
 🖥️ Projects: Discover practical applications of theoretical concepts through hands-on projects in areas such as computer science, engineering, and more.
+
 📝 Assignments: Access well-documented assignments that demonstrate problem-solving skills and understanding of course materials.
+
 🌐 Diversity: Explore projects in different programming languages, technologies, and domains, reflecting versatility and adaptability.
+
 📈 Progress: Witness the evolution of my coding style, technical proficiency, and problem-solving strategies from early assignments to more complex projects.
